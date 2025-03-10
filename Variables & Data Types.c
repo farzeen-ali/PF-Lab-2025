@@ -25,3 +25,29 @@ int main() {
     return 0;
 }
 
+1) Declaration --> int myAge;
+2) Initialization --> myAge = 5;
+3) Declaration + Initialization --> int myAge = 7;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
